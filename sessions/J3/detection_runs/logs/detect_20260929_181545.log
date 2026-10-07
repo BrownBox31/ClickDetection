@@ -1,0 +1,36 @@
+timestamp: 2026-09-29T18:15:45
+mode: Detection
+session: J3
+session_name: J3 Connector
+microphone: 1: Microphone (Mixer Audio)
+sample_rate: 16000
+detect_threshold: 0.65
+duration_sec: 41.132
+audio_file: C:\Users\kanka\Downloads\audio (3)\audio\sessions\J3\detection_runs\audio\detect_20260929_181545.wav
+model: C:\Users\kanka\Downloads\audio (3)\audio\sessions\J3\model\click_detector.pkl
+final_result: NO
+final_message: CONNECTOR NOT FITTED
+
+window_results:
+Scan region: 37.70s onward | events=18 | rule=from_last_event | windows=21 | predict=0.026s | total=0.357s
+Audio: 37.80s | Result: NO | Probability: 0.047
+Audio: 37.95s | Result: NO | Probability: 0.076
+Audio: 38.10s | Result: NO | Probability: 0.072
+Audio: 38.25s | Result: NO | Probability: 0.641
+Audio: 38.40s | Result: NO | Probability: 0.500
+Audio: 38.55s | Result: NO | Probability: 0.049
+Audio: 38.70s | Result: NO | Probability: 0.103
+Audio: 38.85s | Result: NO | Probability: 0.068
+Audio: 39.00s | Result: NO | Probability: 0.097
+Audio: 39.15s | Result: NO | Probability: 0.469
+Audio: 39.30s | Result: NO | Probability: 0.047
+Audio: 39.45s | Result: NO | Probability: 0.032
+Audio: 39.60s | Result: NO | Probability: 0.392
+Audio: 39.75s | Result: NO | Probability: 0.454
+Audio: 39.90s | Result: NO | Probability: 0.087
+Audio: 40.05s | Result: NO | Probability: 0.092
+Audio: 40.20s | Result: NO | Probability: 0.074
+Audio: 40.35s | Result: NO | Probability: 0.103
+Audio: 40.50s | Result: NO | Probability: 0.110
+Audio: 40.65s | Result: NO | Probability: 0.074
+Audio: 40.80s | Result: NO | Probability: 0.142

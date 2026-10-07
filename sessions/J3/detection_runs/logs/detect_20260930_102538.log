@@ -1,0 +1,30 @@
+timestamp: 2026-09-30T10:25:38
+mode: Detection
+session: J3
+session_name: J3 Connector
+microphone: 1: External Microphone (Realtek(R)
+sample_rate: 16000
+detect_threshold: 0.5
+duration_sec: 5.590
+audio_file: C:\Users\kanka\Downloads\audio (3)\audio\sessions\J3\detection_runs\audio\detect_20260930_102538.wav
+model: C:\Users\kanka\Downloads\audio (3)\audio\sessions\J3\model\click_detector.pkl
+detection_mode: single
+final_result: NO
+final_message: CONNECTOR NOT FITTED
+
+window_results:
+Scan region: 3.25s onward | events=2 | rule=from_last_event | windows=14 | predict=0.025s | total=0.091s
+Audio: 3.30s | Result: NO | Probability: 0.331
+Audio: 3.45s | Result: NO | Probability: 0.348
+Audio: 3.60s | Result: NO | Probability: 0.324
+Audio: 3.75s | Result: NO | Probability: 0.325
+Audio: 3.90s | Result: NO | Probability: 0.340
+Audio: 4.05s | Result: NO | Probability: 0.232
+Audio: 4.20s | Result: NO | Probability: 0.274
+Audio: 4.35s | Result: NO | Probability: 0.299
+Audio: 4.50s | Result: NO | Probability: 0.358
+Audio: 4.65s | Result: NO | Probability: 0.201
+Audio: 4.80s | Result: NO | Probability: 0.239
+Audio: 4.95s | Result: NO | Probability: 0.269
+Audio: 5.10s | Result: NO | Probability: 0.152
+Audio: 5.25s | Result: NO | Probability: 0.151

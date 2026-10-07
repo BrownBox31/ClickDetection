@@ -1,0 +1,47 @@
+timestamp: 2026-09-29T10:43:41
+mode: Detection
+session: J3
+session_name: J3 Connector
+microphone: 1: Microphone (Mixer Audio)
+sample_rate: 16000
+detect_threshold: 0.5
+duration_sec: 13.234
+audio_file: C:\Users\anupb\OneDrive - Brown Box Innovations Pvt Ltd\Other company documents\Bajaj\Voice Click Project\audio\sessions\J3\detection_runs\audio\detect_20260929_104341.wav
+model: C:\Users\anupb\OneDrive - Brown Box Innovations Pvt Ltd\Other company documents\Bajaj\Voice Click Project\audio\sessions\J3\model\click_detector.pkl
+final_result: NO
+final_message: CONNECTOR NOT FITTED
+
+window_results:
+Scan region: 8.25s onward | events=8 | rule=after_4_screws_before_final_event | windows=32 | predict=0.062s | total=0.403s
+Audio: 8.25s | Result: NO | Probability: 0.398
+Audio: 8.40s | Result: NO | Probability: 0.379
+Audio: 8.55s | Result: NO | Probability: 0.040
+Audio: 8.70s | Result: NO | Probability: 0.001
+Audio: 8.85s | Result: NO | Probability: 0.003
+Audio: 9.00s | Result: NO | Probability: 0.257
+Audio: 9.15s | Result: NO | Probability: 0.270
+Audio: 9.30s | Result: NO | Probability: 0.439
+Audio: 9.45s | Result: NO | Probability: 0.319
+Audio: 9.60s | Result: NO | Probability: 0.176
+Audio: 9.75s | Result: NO | Probability: 0.225
+Audio: 9.90s | Result: NO | Probability: 0.030
+Audio: 10.05s | Result: NO | Probability: 0.053
+Audio: 10.20s | Result: NO | Probability: 0.045
+Audio: 10.35s | Result: NO | Probability: 0.016
+Audio: 10.50s | Result: NO | Probability: 0.054
+Audio: 10.65s | Result: NO | Probability: 0.208
+Audio: 10.80s | Result: NO | Probability: 0.204
+Audio: 10.95s | Result: NO | Probability: 0.164
+Audio: 11.10s | Result: NO | Probability: 0.005
+Audio: 11.25s | Result: NO | Probability: 0.498
+Audio: 11.40s | Result: NO | Probability: 0.191
+Audio: 11.55s | Result: NO | Probability: 0.194
+Audio: 11.70s | Result: NO | Probability: 0.016
+Audio: 11.85s | Result: NO | Probability: 0.292
+Audio: 12.00s | Result: NO | Probability: 0.128
+Audio: 12.15s | Result: NO | Probability: 0.172
+Audio: 12.30s | Result: NO | Probability: 0.285
+Audio: 12.45s | Result: NO | Probability: 0.023
+Audio: 12.60s | Result: NO | Probability: 0.000
+Audio: 12.75s | Result: NO | Probability: 0.007
+Audio: 12.90s | Result: NO | Probability: 0.003

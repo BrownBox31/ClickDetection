@@ -1,0 +1,33 @@
+timestamp: 2026-09-29T13:26:04
+mode: Detection
+session: J3
+session_name: J3 Connector
+microphone: 1: Microphone (Mixer Audio)
+sample_rate: 16000
+detect_threshold: 0.5
+duration_sec: 12.298
+audio_file: C:\Users\anupb\OneDrive - Brown Box Innovations Pvt Ltd\Other company documents\Bajaj\Voice Click Project\audio\sessions\J3\detection_runs\audio\detect_20260929_132604.wav
+model: C:\Users\anupb\OneDrive - Brown Box Innovations Pvt Ltd\Other company documents\Bajaj\Voice Click Project\audio\sessions\J3\model\click_detector.pkl
+final_result: YES
+final_message: CONNECTOR FITTED
+
+window_results:
+Scan region: 9.35s onward | events=5 | rule=from_last_event | windows=18 | predict=0.058s | total=0.320s
+Audio: 9.45s | Result: NO | Probability: 0.042
+Audio: 9.60s | Result: NO | Probability: 0.039
+Audio: 9.75s | Result: YES | Probability: 0.649
+Audio: 9.90s | Result: NO | Probability: 0.063
+Audio: 10.05s | Result: NO | Probability: 0.199
+Audio: 10.20s | Result: NO | Probability: 0.253
+Audio: 10.35s | Result: YES | Probability: 0.552
+Audio: 10.50s | Result: NO | Probability: 0.119
+Audio: 10.65s | Result: NO | Probability: 0.042
+Audio: 10.80s | Result: NO | Probability: 0.021
+Audio: 10.95s | Result: NO | Probability: 0.023
+Audio: 11.10s | Result: NO | Probability: 0.138
+Audio: 11.25s | Result: NO | Probability: 0.028
+Audio: 11.40s | Result: NO | Probability: 0.036
+Audio: 11.55s | Result: NO | Probability: 0.028
+Audio: 11.70s | Result: NO | Probability: 0.040
+Audio: 11.85s | Result: NO | Probability: 0.011
+Audio: 12.00s | Result: NO | Probability: 0.035

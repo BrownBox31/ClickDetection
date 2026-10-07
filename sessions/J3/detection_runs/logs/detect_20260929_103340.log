@@ -1,0 +1,22 @@
+timestamp: 2026-09-29T10:33:40
+mode: Detection
+session: J3
+session_name: J3 Connector
+microphone: 1: Microphone Array (Realtek(R) Au
+sample_rate: 16000
+detect_threshold: 0.6
+duration_sec: 3.068
+audio_file: C:\Users\anupb\OneDrive - Brown Box Innovations Pvt Ltd\Other company documents\Bajaj\Voice Click Project\audio\sessions\J3\detection_runs\audio\detect_20260929_103340.wav
+model: C:\Users\anupb\OneDrive - Brown Box Innovations Pvt Ltd\Other company documents\Bajaj\Voice Click Project\audio\sessions\J3\model\click_detector.pkl
+final_result: NO
+final_message: CONNECTOR NOT FITTED
+
+window_results:
+Scan region: 1.84s onward | events=0 | rule=fallback_last_40_percent | windows=7 | predict=0.057s | total=3.948s
+Audio: 1.95s | Result: NO | Probability: 0.481
+Audio: 2.10s | Result: NO | Probability: 0.341
+Audio: 2.25s | Result: NO | Probability: 0.271
+Audio: 2.40s | Result: NO | Probability: 0.092
+Audio: 2.55s | Result: NO | Probability: 0.040
+Audio: 2.70s | Result: NO | Probability: 0.030
+Audio: 2.85s | Result: NO | Probability: 0.033
